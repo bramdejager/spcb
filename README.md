@@ -6,6 +6,8 @@ The SharePoint Client Browser (SPCB) uses the SharePoint API (a.k.a. CSOM) to co
 * SharePoint Online (Office 365)
 * SharePoint 2013 on-premises
 * SharePoint 2016 on-premises
+## Releases ##
+You can find the latests releases (downloads) under releases: [https://github.com/bramdejager/spcb/releases](https://github.com/bramdejager/spcb/releases "releases").
 ## Screenshot ##
 ![Home Screen](https://github.com/bramdejager/spcb/blob/master/img/SPCBv3.3-HomeScreen.png?raw=true)
 ## Prerequisites ##

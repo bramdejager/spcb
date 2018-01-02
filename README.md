@@ -1,5 +1,5 @@
 # SharePoint Client Browser (SPCB) #
-by Bram de Jager ([@bramdejager](http://twitter.com/bramdejager "@bramdejager"))
+by Bram de Jager ([@bramdejager](http://twitter.com/bramdejager "@bramdejager")), migrated from [CodePlex](http://spcb.codeplex.com/).
 ## Summary ##
 The SharePoint Client Browser (SPCB) uses the SharePoint API (a.k.a. CSOM) to connect to a remote SharePoint site collection and shows the site structure with related properties and values.
 ## Support for ##

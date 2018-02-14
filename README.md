@@ -21,7 +21,8 @@ When selecting the release, download the release which is corresponding your tar
 ![Home Screen](https://github.com/bramdejager/spcb/blob/master/img/SPCBv3.3-HomeScreen.png?raw=true)
 ## Prerequisites ##
 Below system requirements are recommended, other system configurations might work too... (not validated)
-* Windows 7 or higher
+* Windows 7, 8, 8.1, 10
+* Windows Server 2012, 2016
 * Microsoft .NET Framework 4 or higher
 ## Getting Started ##
 *Coming soon...*

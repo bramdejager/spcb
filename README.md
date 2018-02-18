@@ -9,7 +9,7 @@ The SharePoint Client Browser (SPCB) uses the SharePoint API (a.k.a. CSOM) to co
 * SharePoint 2010 on-premises (archive only)
 ## Releases & Downloads ##
 You can find the latests releases (downloads) under releases: [https://github.com/bramdejager/spcb/releases](https://github.com/bramdejager/spcb/releases "releases").
-When selecting the release, download the release which is corresponding your target system. Each target system has a separate download.
+When selecting the release, download the release which is corresponding your target system. Each target system has a separate download. By downloading and using the SharePoint Client Browser tool you agree to the [privacy policy](https://github.com/bramdejager/spcb/blob/master/PRIVACY.md).
 
 | Target system | Client | Version | Latest Release |
 | --- | --- | :---: | :---: |

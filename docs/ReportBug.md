@@ -7,8 +7,8 @@ It's not very likely when working with SharePoint Client Browser issues or bugs 
 * Reproduce the steps causing the bug/issue
 * Open today's log file
 	* Via the menu: _Info_ » _Open_ _logs_ _folder_
-	* (optional) Open the last log file in Notepad (file name: SPCB-MACHINENAME-2014MONTHDAY.log)
-* Register a new issue via Issues page [http://spcb.codeplex.com/workitem/list/basic](http://spcb.codeplex.com/workitem/list/basic)
+	* (optional) Open the last log file in Notepad (file name: SPCB-MACHINENAME-YEARMONTHDAY.log)
+* Register a new or update the issue via [Issues](https://github.com/bramdejager/spcb/issues)
 	* Include all logs information by attaching (upload) the log file for additional information
 
 After registration of the issue I'll look into it and reply via this site. 

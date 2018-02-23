@@ -2,6 +2,7 @@
 It's not very likely when working with SharePoint Client Browser issues or bugs occur. I'm doing my best to minimize these and for the less unfortunate ones I'll try to fix them as soon as possible. When you find an issue or bug, please help me by providing information.
 
 **Steps to report an issue**
+* Download the latest version, for all latest versions check out the [readme](https://github.com/bramdejager/spcb/blob/master/README.md)
 * Set logging level to Verbose
 	* Via the menu: _Options_ » _Logging Level_ » _Verbose_
 * Reproduce the steps causing the bug/issue

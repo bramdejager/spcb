@@ -3,7 +3,7 @@ by Bram de Jager ([@bramdejager](http://twitter.com/bramdejager "@bramdejager"))
 ## Summary ##
 The SharePoint Client Browser (SPCB) uses the SharePoint API (a.k.a. CSOM) to connect to a remote SharePoint site collection and shows the site structure with related properties and values.
 ## Support for ##
-* SharePoint Online (Office 365)
+* SharePoint Online (Office 365 Multi Tenant & Office 365 Dedicated)
 * SharePoint 2016 on-premises
 * SharePoint 2013 on-premises
 * SharePoint 2010 on-premises (archive only)

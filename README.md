@@ -13,7 +13,7 @@ When selecting the release, download the release which is corresponding your tar
 
 | Target system | Client | Version | Latest Release |
 | --- | --- | :---: | :---: |
-| SharePoint Online | SharePoint Online Client Browser | v3.x | [download](https://github.com/bramdejager/spcb/releases/tag/v3.6) |
+| SharePoint Online | SharePoint Online Client Browser | v3.x | [download](https://github.com/bramdejager/spcb/releases/tag/v3.8) |
 | SharePoint 2016 | SharePoint 2016 Client Browser | v2.x | [download](https://github.com/bramdejager/spcb/releases/tag/v2.9) |
 | SharePoint 2013 | SharePoint 2013 Client Browser | v1.x | [download](https://github.com/bramdejager/spcb/releases/tag/v1.16) |
 | SharePoint 2010 | SharePoint 2010 Client Browser | v0.x | [download](https://github.com/bramdejager/spcb/releases/tag/v0.6) |

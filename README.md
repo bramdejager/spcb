@@ -14,7 +14,7 @@ When selecting the release, download the release which is corresponding your tar
 
 | Target system     | Client                            | Version | Latest Release                                                      |
 | ---               | ---                               | :---:   | :---:                                                               |
-| SharePoint Online | SharePoint Online Client Browser  | v4.x    | [download](https://github.com/bramdejager/spcb/releases/tag/v4.18)   |
+| SharePoint Online | SharePoint Online Client Browser  | v4.x    | [download](https://github.com/bramdejager/spcb/releases/tag/v4.19)   |
 | SharePoint 2019   | SharePoint 2019 Client Browser    | v3.x    | [download](https://github.com/bramdejager/spcb/releases/tag/v3.12)   |
 | SharePoint 2016   | SharePoint 2016 Client Browser    | v2.x    | [download](https://github.com/bramdejager/spcb/releases/tag/v2.13)  |
 | SharePoint 2013   | SharePoint 2013 Client Browser    | v1.x    | [download](https://github.com/bramdejager/spcb/releases/tag/v1.20)  |
@@ -23,8 +23,8 @@ When selecting the release, download the release which is corresponding your tar
 ![Home Screen](https://github.com/bramdejager/spcb/blob/master/img/SPCBv3.3-HomeScreen.png?raw=true)
 ## Prerequisites ##
 Below system requirements are recommended, other system configurations might work too... (not validated)
-* Windows 7, 8, 8.1, 10
-* Windows Server 2012, 2016
+* Windows 10, 11
+* Windows Server 2016, 2019, 2022
 * Microsoft .NET Framework 4 or higher
 ## Getting Started ##
 *Coming soon...*
